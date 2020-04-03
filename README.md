@@ -6,6 +6,6 @@ A CryptoCompare API is used to track the Real-Time Prices of the Crypto currenci
 
 Hope you like it!
 
-<b>Programmer: maverick sonawane <br>
+<b>Programmer: Mayur Sonawane <br>
 Github: mavericksonawane <br>
 Email: mavericksonawane@gmail.com </b>
